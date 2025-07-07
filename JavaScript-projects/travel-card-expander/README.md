@@ -1,4 +1,4 @@
-# 🌍 travel-card-expander || Explore Destinations UI
+# 🌍 travel-card-expander || flex-card-gallery || Explore Destinations UI
 
 A responsive and interactive UI project featuring **expandable travel destination cards**, inspired by modern travel site interfaces.
 
