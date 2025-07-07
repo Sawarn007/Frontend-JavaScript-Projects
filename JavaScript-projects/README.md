@@ -1,4 +1,4 @@
-# Project 1: flex-card-gallery (travel-card-expander)
+# Project 1: travel-card-expander (flex-card-gallery)
 
 
 
