@@ -30,7 +30,7 @@ This is a responsive, interactive front-end project showcasing beautiful travel 
 ## 📦 Project Structure
 
 ```bash
-/dynamic_travel-card-expander
+dynamic_travel-card-expander/
 │
 ├── index.html
 ├── styles.css
