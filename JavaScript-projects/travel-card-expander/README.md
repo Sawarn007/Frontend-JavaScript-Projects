@@ -28,7 +28,7 @@ This project demonstrates core frontend development skills including:
 ## 📁 Project Structure
 
 ```bash
-explore-destinations-ui/
+travel-card-expander/
 ├── index.html      # Main HTML file
 ├── style.css       # Custom styles for layout and animation
 └── script.js       # JavaScript for click-to-expand behavior
