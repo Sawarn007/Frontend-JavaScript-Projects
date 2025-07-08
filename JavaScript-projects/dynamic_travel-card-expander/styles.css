@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #f4f4f4;
+}
+.container{
+    width: 90%;/*here 90wh didn't worked */
+    display: flex;
+    gap: 15px;
+    transition: all 0.3s ease-in-out;
+}
+.details{
+    background: rgba(255, 255, 255, 0.85);
+    color: #333;
+    width: 50%;
+    padding: 10px;
+    position: absolute;
+    bottom: 250px;
+    left: 25%;
+    text-align: center;
+    border-radius: 10px;
+    display: none;
+    z-index: 1;
+    transition: block 0.7s ease-in;
+}
+.detailsDescription{
+    padding: 10px;
+    text-align: center;
+    color: #333;
+    border-radius: 10px;
+}
+.block{
+    display: block;
+}
+.panel{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80vh;
+    overflow: hidden;
+    border-radius: 50px;
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    flex: 0.5;
+    transition: flex 0.7s ease-in;
+}
+.title{
+    position: relative;
+    top: 450px;
+    left: 20px;
+    font-size: 15px;
+    opacity: 0;
+    height: 8%;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.8);
+    color: #333;
+    transition: opacity 0.3s ease-in-out;
+    border-radius: 10px;
+}
+.title:hover {
+  /* your hover styles here */
+  background-color: rgb(195, 240, 255);
+  font-weight: bold;
+}
+
+.panelActive{
+    flex: 5.5;
+    transform: scale(1.02);
+}
+
+.titleActive{
+    opacity: 1;
+}
+
+/* below code is not working*/
+@media (max-width: 580px){
+  .panel:nth-last-child(1){
+    display: none;
+  }
+}
