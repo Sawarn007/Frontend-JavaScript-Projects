@@ -10,6 +10,8 @@ This project demonstrates core frontend development skills including:
 - **Event handling and class toggling**
 
 ## 📸 Features
+![travel-card-expander](https://github.com/user-attachments/assets/1d12d22f-22f4-4bc7-a6f7-85aa601386ee)
+
 
 - Click on any travel card to **expand** and highlight it.
 - **Smooth transition** animations when cards expand and collapse.
