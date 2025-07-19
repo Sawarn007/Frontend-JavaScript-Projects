@@ -14,9 +14,7 @@ A creative rotating navigation menu UI built with HTML, CSS, and JavaScript. Thi
 
 ---
 📸 Preview
-
-
-
+<img width="1329" height="645" alt="Rotating_menu" src="https://github.com/user-attachments/assets/2dacb438-bf8b-4828-8c79-f48bce379c82" />
 
 
 ---
