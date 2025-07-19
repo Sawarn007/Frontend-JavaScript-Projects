@@ -1,0 +1,41 @@
+# 🔄 Rotating Navigation Menu with Portfolio Look
+
+A creative rotating navigation menu UI built with HTML, CSS, and JavaScript. This interactive design rotates the entire page to reveal navigation links, making it a unique frontend project.
+
+---
+
+## 🚀 Features
+
+- 🎨 Animated rotating layout
+- 🎯 Font Awesome icons for sleek nav buttons
+- 📱 Responsive structure
+- ✨ Smooth transitions using pure CSS
+- 🧠 Ideal for personal portfolios or creative landing pages
+
+---
+📸 Preview
+
+
+
+
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, Transforms, Transitions)
+- Vanilla JavaScript (DOM manipulation)
+- Font Awesome 6.5
+- Google Fonts (`Lato`)
+
+---
+
+## 🗂️ Project Structure
+
+```bash
+rotating-nav-portfolio/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
