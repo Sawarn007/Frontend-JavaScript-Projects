@@ -1,4 +1,4 @@
-# 🌍 Dynamic_travel-card-expander || Dynamic_flex-card-gallery || Explore Destinations UI
+# 🌍 Dynamic travel card expander || Dynamic flex card gallery Component || Explore Destinations UI
 
 This is a responsive, interactive front-end project showcasing beautiful travel destinations using expandable cards. Built with HTML, CSS, and vanilla JavaScript.
 
