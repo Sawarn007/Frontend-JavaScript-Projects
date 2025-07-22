@@ -1,4 +1,4 @@
-# 🔄 Rotating Navigation Menu with Portfolio Look
+# 🔄 Rotating Navigation Menu Component with Portfolio Look
 
 A creative rotating navigation menu UI built with HTML, CSS, and JavaScript. This interactive design rotates the entire page to reveal navigation links, making it a unique frontend project.
 
