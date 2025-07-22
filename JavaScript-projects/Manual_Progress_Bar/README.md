@@ -1,4 +1,4 @@
-Manual_Progress_Bar
+Manual Progress Bar Component
 
 ---
 📸 Features
