@@ -38,7 +38,7 @@ As the loading percentage increases, the blur effect decreases, revealing a clea
 ## 📦 Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/blurry-loading.git
+   git clone https://github.com/Sawarn007/Frontend-JavaScript-Projects/tree/main/JavaScript-projects/Blurry_Loading_Screen.git
 ## 📂 Project Structure
 ```bash
 📦 blurry-loading
